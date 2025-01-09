@@ -1,0 +1,2 @@
+# source this file to use the alias command
+alias file_remove='rm -r'

@@ -1,0 +1,8 @@
+2025-01-09 14:54:36	git clone https://github.com/UlyssesZh/UCSB-PHYS-129L-PS1-P2.git P2	817ms
+2025-01-09 14:55:21	cd P2	12ms
+2025-01-09 14:55:38	rm Problem1/*.bin	60ms
+2025-01-09 14:55:54	echo "# source this file to use the alias command\nalias file_remove='rm -r'" > define_file_remove	12ms
+2025-01-09 14:58:04	vim organize_data.sh	8m
+2025-01-09 15:07:04	chmod +x organize_data.sh	19ms
+2025-01-09 15:07:07	./organize_data.sh	2s
+2025-01-09 15:08:19	atuin history list --session >> P2_cmd_history.txt	0s
